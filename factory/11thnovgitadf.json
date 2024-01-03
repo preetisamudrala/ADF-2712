@@ -1,0 +1,9 @@
+{
+	"name": "11thnovgitadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d61169c-190a-45b7-a185-fdca83dd5744",
+		"tenantId": "2bd780b6-c3f5-4946-a6ca-61bcfc8851cd"
+	}
+}
